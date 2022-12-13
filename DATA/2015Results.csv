@@ -4,7 +4,7 @@ David Anderson,Conservative Party of Canada,42,9,47002,SK,M,No,.,53,1,20,0,1957-
 Charlie Angus,New Democratic Party,42,11,35107,ON,M,Yes,Yes,168,0,15,1,1962-11-14,56,15.32328767
 Larry Bagnell,Liberal Party of Canada,42,15,60001,YT,M,Yes,Yes,11,1,15,1,1949-12-19,69,16.35068493
 Navdeep Bains,Liberal Party of Canada,42,16,35062,ON,M,Yes,Yes,468,0,0,0,16-Jun-77,42,12.76712329
-Churence Rogers,Liberal Party of Canada,43,10616,10002,NL,M,Yes,Yes,6,0,10,1,1953-06-03,66,1.860273973
+Churence Rogers,Liberal Party of Canada,42,10616,10002,NL,M,Yes,Yes,6,0,10,1,1953-06-03,66,1.860273973
 Carolyn Bennett,Liberal Party of Canada,42,24,35090,ON,F,Yes,Yes,217,0,0,0,1950-12-20,68,22.4
 James Bezan,Conservative Party of Canada,42,28,46010,MB,M,Yes,Yes,225,2,36,0,1965-05-19,54,15.32328767
 Scott Brison,Liberal Party of Canada,42,44,12007,NS,M,No,.,172,0,0,0,1967-05-10,52,22.4
@@ -21,7 +21,7 @@ Diane Finley,Conservative Party of Canada,42,102,35033,ON,F,Yes,Yes,36,0,23,0,19
 Hedy Fry,Liberal Party of Canada,42,109,59034,BC,F,Yes,Yes,8,0,21,0,1941-08-06,78,26.00547945
 Cheryl Gallant,Conservative Party of Canada,42,113,35086,ON,F,Yes,Yes,36,1,16,0,1960-05-23,59,2.052054795
 Ralph Goodale,Liberal Party of Canada,42,121,47009,SK,M,Yes,No,573,0,0,0,1949-10-05,70,30.86849315
-Richard Martel,Conservative Party of Canada,43,10628,24022,QC,M,Yes,Yes,25,0,3,0,1961-03-23,58,1.342465753
+Richard Martel,Conservative Party of Canada,42,10628,24022,QC,M,Yes,Yes,25,0,3,0,1961-03-23,58,1.342465753
 Mark Holland,Liberal Party of Canada,42,139,35001,ON,M,Yes,Yes,109,0,15,1,1974-10-16,45,10.85205479
 Peter Julian,New Democratic Party,42,146,59019,BC,M,Yes,Yes,109,9,9,1,1962-04-16,57,15.32328767
 Jason Kenney,Conservative Party of Canada,42,152,48008,AB,M,No,.,45,0,2,1,1968-05-30,51,22.4
@@ -41,7 +41,7 @@ Pierre Poilievre,Conservative Party of Canada,42,233,35088,ON,M,Yes,Yes,782,1,33
 Yasmin Ratansi,Liberal Party of Canada,42,240,35019,ON,F,Yes,Yes,9,0,35,1,1951-01-04,68,12.76712329
 Geoff Regan,Liberal Party of Canada,42,242,12006,NS,M,Yes,Yes,25,0,1,1,1959-11-22,59,22.51232877
 Scott Reid,Conservative Party of Canada,42,243,35049,ON,M,Yes,Yes,104,0,15,0,1964-01-25,55,18.90958904
-Richard Hébert,Liberal Party of Canada,43,10609,24035,QC,M,Yes,No,3,0,15,1,,,1.994520548
+Richard Hébert,Liberal Party of Canada,42,10609,24035,QC,M,Yes,No,3,0,15,1,,,1.994520548
 Pablo Rodriguez,Liberal Party of Canada,42,248,24029,QC,M,Yes,Yes,60,1,13,0,1967-06-21,52,10.85205479
 Anthony Rota,Liberal Party of Canada,42,249,35070,ON,M,Yes,Yes,1,0,15,1,1961-05-15,58,10.85205479
 Francis Scarpaleggia,Liberal Party of Canada,42,255,24036,QC,M,Yes,Yes,5,1,15,0,1957-06-06,62,15.32328767
@@ -70,9 +70,9 @@ Bruce Stanton,Conservative Party of Canada,42,453,35100,ON,M,Yes,Yes,0,0,5,1,195
 David Sweet,Conservative Party of Canada,42,456,35030,ON,M,Yes,Yes,25,0,31,1,1957-06-24,62,13.75068493
 Dave Van Kesteren,Conservative Party of Canada,42,458,35017,ON,M,No,.,3,0,10,0,07-Oct-55,64,13.75068493
 Chris Warkentin,Conservative Party of Canada,42,461,48024,AB,M,Yes,Yes,50,0,12,0,1978-11-20,40,5.482191781
-Rachel Bendayan,Liberal Party of Canada,43,9475,24054,QC,F,Yes,Yes,1,0,3,1,10-May-80,39,0.652054795
+Rachel Bendayan,Liberal Party of Canada,42,9475,24054,QC,F,Yes,Yes,1,0,3,1,10-May-80,39,0.652054795
 Joyce Murray,Liberal Party of Canada,42,550,59039,BC,F,Yes,Yes,25,0,28,0,1954-07-11,65,11.60273973
-Emmanuella Lambropoulos,Liberal Party of Canada,43,10604,24068,QC,F,Yes,Yes,12,0,14,1,12-Sep-91,28,2.550684932
+Emmanuella Lambropoulos,Liberal Party of Canada,42,10604,24068,QC,F,Yes,Yes,12,0,14,1,12-Sep-91,28,2.550684932
 Alexandra Mendès,Liberal Party of Canada,42,562,24017,QC,F,Yes,Yes,18,1,34,1,1963-11-03,55,6.553424658
 Justin Trudeau,Liberal Party of Canada,42,567,24055,QC,M,Yes,Yes,3208,0,1,0,1971-12-25,47,11.02465753
 Marc Garneau,Liberal Party of Canada,42,572,24053,QC,M,Yes,Yes,448,0,0,0,1949-02-23,70,11.02465753
@@ -123,7 +123,7 @@ Romeo Saganash,New Democratic Party,42,8606,24001,QC,M,No,.,106,1,13,1,1962-10-2
 Michel Picard,Liberal Party of Canada,42,8655,24049,QC,M,Yes,No,21,2,27,1,1960-02-15,59,4.008219178
 Pierre-Luc Dusseault,New Democratic Party,42,8678,24073,QC,M,Yes,No,87,4,18,0,1991-05-31,28,8.476712329
 Robert Aubin,New Democratic Party,42,8685,24076,QC,M,Yes,No,92,1,18,0,1960-05-26,59,8.476712329
-Mary Ng,Liberal Party of Canada,43,10596,35055,ON,F,Yes,Yes,10,0,12,0,1969-12-16,49,2.550684932
+Mary Ng,Liberal Party of Canada,42,10596,35055,ON,F,Yes,Yes,10,0,12,0,1969-12-16,49,2.550684932
 Bryan May,Liberal Party of Canada,42,8726,35016,ON,M,Yes,Yes,6,1,16,1,1974-09-19,45,4.008219178
 Karen McCrimmon,Liberal Party of Canada,42,8728,35041,ON,F,Yes,Yes,83,0,26,1,01-Jan-59,60,4.008219178
 Peter Fonseca,Liberal Party of Canada,42,8822,35059,ON,M,Yes,Yes,10,0,24,1,1966-10-05,53,4.008219178
@@ -145,7 +145,7 @@ Chrystia Freeland,Liberal Party of Canada,42,9265,35110,ON,F,Yes,Yes,405,0,0,0,1
 Emmanuel Dubourg,Liberal Party of Canada,42,9271,24015,QC,M,Yes,Yes,9,0,27,0,1958-12-26,60,5.906849315
 David Yurdiga,Conservative Party of Canada,42,9276,48023,AB,M,Yes,Yes,23,0,16,1,1964-03-26,55,5.312328767
 John Barlow,Conservative Party of Canada,42,9281,48022,AB,M,Yes,Yes,120,1,31,0,1971-10-13,48,5.312328767
-Mona Fortier,Liberal Party of Canada,43,10601,35078,ON,F,Yes,Yes,14,0,23,1,01-Jan-72,47,2.550684932
+Mona Fortier,Liberal Party of Canada,42,10601,35078,ON,F,Yes,Yes,14,0,23,1,01-Jan-72,47,2.550684932
 Adam Vaughan,Liberal Party of Canada,42,9289,35101,ON,M,Yes,Yes,58,0,25,1,1961-07-03,58,5.312328767
 Jim Eglinski,Conservative Party of Canada,42,9294,48034,AB,M,No,.,11,1,19,1,1948-12-15,70,4.928767123
 Celina Caesar-Chavannes,Liberal Party of Canada,42,9300,35114,ON,F,No,.,14,1,26,1,1974-06-24,45,4.008219178
@@ -175,7 +175,7 @@ Kelly McCauley,Conservative Party of Canada,42,9445,48020,AB,M,Yes,Yes,38,1,22,0
 Tom Kmiec,Conservative Party of Canada,42,9453,48011,AB,M,Yes,Yes,44,2,42,0,1981-07-31,38,4.008219178
 Luc Thériault,Bloc Québécois,42,9460,24050,QC,M,Yes,Yes,118,2,17,0,1960-01-31,59,4.008219178
 Anthony Housefather,Liberal Party of Canada,42,9466,24052,QC,M,Yes,Yes,7,1,27,1,25-Jan-73,46,4.008219178
-Jean Yip,Liberal Party of Canada,43,10619,35093,ON,F,Yes,Yes,6,0,10,1,1968-01-01,51,1.860273973
+Jean Yip,Liberal Party of Canada,42,10619,35093,ON,F,Yes,Yes,6,0,10,1,1968-01-01,51,1.860273973
 Frank Baylis,Liberal Party of Canada,42,9487,24056,QC,M,No,.,12,0,27,1,1962-11-15,56,4.008219178
 William Amos,Liberal Party of Canada,42,9490,24057,QC,M,Yes,Yes,18,0,30,1,04-Dec-74,44,4.008219178
 Joël Lightbound,Liberal Party of Canada,42,9497,24044,QC,M,Yes,Yes,121,0,19,1,1988-02-08,31,4.008219178
@@ -257,7 +257,7 @@ Alupa Clarke,Conservative Party of Canada,42,10040,24008,QC,M,Yes,No,115,1,18,0,
 Ruby Sahota,Liberal Party of Canada,42,10044,35010,ON,F,Yes,Yes,13,0,30,1,,,4.008219178
 Jonathan Wilkinson,Liberal Party of Canada,42,10050,59021,BC,M,Yes,Yes,206,0,8,1,11-Jun-65,54,4.008219178
 Sonia Sidhu,Liberal Party of Canada,42,10053,35011,ON,F,Yes,Yes,14,1,30,1,1968-01-03,51,4.008219178
-Scot Davidson,Conservative Party of Canada,43,10649,35119,ON,M,Yes,Yes,3,0,2,1,,,0.652054795
+Scot Davidson,Conservative Party of Canada,42,10649,35119,ON,M,Yes,Yes,3,0,2,1,,,0.652054795
 Michael Levitt,Liberal Party of Canada,42,10060,35118,ON,M,Yes,Yes,7,0,25,1,1970-05-09,49,4.008219178
 Ali Ehsassi,Liberal Party of Canada,42,10068,35115,ON,M,Yes,Yes,10,0,26,1,1970-04-24,49,4.008219178
 Bardish Chagger,Liberal Party of Canada,42,10075,35112,ON,F,Yes,Yes,1166,0,0,0,1980-04-06,39,4.008219178
@@ -330,12 +330,12 @@ Neil Ellis,Liberal Party of Canada,42,10562,35006,ON,M,Yes,Yes,10,0,15,1,01-Jan-
 Raj Grewal,Liberal Party of Canada,42,10567,35009,ON,M,No,.,16,0,22,1,1985-09-11,34,4.008219178
 Ramesh Sangha,Liberal Party of Canada,42,10572,35008,ON,M,Yes,Yes,6,1,17,1,1945-06-06,74,4.008219178
 Wayne Stetski,New Democratic Party,42,10581,59015,BC,M,Yes,No,51,2,20,1,1952-05-23,67,4.008219178
-Rosemarie Falk,Conservative Party of Canada,43,10624,47001,SK,F,Yes,Yes,24,0,11,1,1988-01-01,31,1.860273973
-Stephanie Kusie,Conservative Party of Canada,43,10593,48008,AB,F,Yes,Yes,59,0,16,0,01-Jan-73,46,2.550684932
-Bob Benzen,Conservative Party of Canada,43,10588,48007,AB,M,Yes,Yes,5,0,12,1,1959-03-03,60,2.550684932
-Glen Motz,Conservative Party of Canada,43,10582,48027,AB,M,Yes,Yes,43,0,17,0,01-Jan-58,61,2.991780822
-Dane Llyod,Conservative Party of Canada,43,10607,48033,AB,M,Yes,Yes,23,1,13,1,1991-02-16,28,1.994520548
-Jagmeet Singh,New Democratic Party,43,8714,59003,BC,M,Yes,Yes,105,0,0,0,1979-01-02,40,0.652054795
-Paul Manly,Green Party of Canada,43,10056,59018,BC,M,Yes,No,4,0,1,1,19-Apr-64,55,0.460273973
-Michael Barrett,Conservative Party of Canada,43,10631,35050,ON,M,Yes,Yes,12,0,8,1,01-Jan-84,35,0.882191781
-Gordie Hogg,Liberal Party of Canada,43,10613,59030,BC,M,Yes,No,5,0,9,1,1946-08-24,73,1.860273973
+Rosemarie Falk,Conservative Party of Canada,42,10624,47001,SK,F,Yes,Yes,24,0,11,1,1988-01-01,31,1.860273973
+Stephanie Kusie,Conservative Party of Canada,42,10593,48008,AB,F,Yes,Yes,59,0,16,0,01-Jan-73,46,2.550684932
+Bob Benzen,Conservative Party of Canada,42,10588,48007,AB,M,Yes,Yes,5,0,12,1,1959-03-03,60,2.550684932
+Glen Motz,Conservative Party of Canada,42,10582,48027,AB,M,Yes,Yes,43,0,17,0,01-Jan-58,61,2.991780822
+Dane Llyod,Conservative Party of Canada,42,10607,48033,AB,M,Yes,Yes,23,1,13,1,1991-02-16,28,1.994520548
+Jagmeet Singh,New Democratic Party,42,8714,59003,BC,M,Yes,Yes,105,0,0,0,1979-01-02,40,0.652054795
+Paul Manly,Green Party of Canada,42,10056,59018,BC,M,Yes,No,4,0,1,1,19-Apr-64,55,0.460273973
+Michael Barrett,Conservative Party of Canada,42,10631,35050,ON,M,Yes,Yes,12,0,8,1,01-Jan-84,35,0.882191781
+Gordie Hogg,Liberal Party of Canada,42,10613,59030,BC,M,Yes,No,5,0,9,1,1946-08-24,73,1.860273973
