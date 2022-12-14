@@ -1,4 +1,4 @@
-﻿Name,Party,Election,Politician ID,Riding ID,Province,Gender,ranfor44,reelected44,QuestionPeriod,PvtMemBills,StatementsByMembers,Backbencher ,DOB,AgeOnElectionDay,YearsServedAtElection
+﻿Name,Party,Election,Politician ID,Riding ID,Province,Gender,ranfor44,reelected44,QuestionPeriod,PvtMemBills,StatementsByMembers,Backbencher,DOB,AgeOnElectionDay,YearsServedAtElection
 Dean Allison,Conservative Party of Canada,43,5,35068,ON,M,Yes,Yes,1,0,2,1,1965-02-18,56,17.24109589
 Charlie Angus,New Democratic Party,43,11,35107,ON,M,Yes,Yes,41,0,3,1,1962-11-14,58,17.24109589
 Larry Bagnell,Liberal Party of Canada,43,15,60001,YT,M,No,.,0,0,0,1,1949-12-19,71,16.35616438
